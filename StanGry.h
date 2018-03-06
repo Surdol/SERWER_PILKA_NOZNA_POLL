@@ -7,6 +7,7 @@
 
 
 class StanGry {
+    bool zajeteMiejsce[4];
 
 };
 
